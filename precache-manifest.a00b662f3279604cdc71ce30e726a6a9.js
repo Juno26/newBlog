@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "1a4fd52ed44bd1d1ad43",
+    "revision": "e0574120d9bed47fd7ca",
     "url": "/newBlog/static/css/main.6e9ce0d5.chunk.css"
   },
   {
-    "revision": "1a4fd52ed44bd1d1ad43",
-    "url": "/newBlog/static/js/main.1a4fd52e.chunk.js"
+    "revision": "e0574120d9bed47fd7ca",
+    "url": "/newBlog/static/js/main.e0574120.chunk.js"
   },
   {
     "revision": "444f0bc38a785630c6eb",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/newBlog/static/media/sound_school_bell_end.8240d3cb.mp3"
   },
   {
-    "revision": "ceb7e62f936e05a382c1a2fafe9a4e5a",
+    "revision": "94f258684997e61b43b549c39400f21c",
     "url": "/newBlog/index.html"
   }
 ];
